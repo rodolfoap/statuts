@@ -129,3 +129,5 @@ Autres Suggestions Générales
 * Règlement intérieur: Prévoir l'élaboration d'un règlement intérieur pour compléter et préciser les statuts.
 
 Ces observations visent à assurer la clarté, la transparence et la conformité légale des statuts de l'Association, tout en renforçant la gouvernance interne et la participation des membres.
+
+EOF
