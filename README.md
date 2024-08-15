@@ -1,4 +1,4 @@
-# Statuts Association Culturelle "Artistes de Bolivie en France"
+# Statuts Association Culturelle "Bolivie à Toulouse"
 
 ## Article Premier: Objet
 
